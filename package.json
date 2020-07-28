@@ -32,7 +32,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "toggle",
+  "name": "typescript-toggle",
   "author": "Gabe Abud",
   "module": "dist/toggle.esm.js",
   "jest": {
