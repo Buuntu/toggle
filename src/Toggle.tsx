@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-require('./Toggle.css');
+import './Toggle.css';
 
 export type ToggleType = {
   isOn: boolean;
